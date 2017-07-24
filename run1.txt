@@ -1,0 +1,15 @@
+0	61	22	61	82	24	13	49	65	96	
+61	0	44	2	23	38	48	30	40	76	
+22	44	0	43	63	11	13	27	42	76	
+61	2	43	0	23	37	48	28	38	75	
+82	23	63	23	0	58	69	40	40	69	
+24	38	11	37	58	0	11	28	46	82	
+13	48	13	48	69	11	0	38	55	89	
+49	30	27	28	40	28	38	0	17	55	
+65	40	42	38	40	46	55	17	0	38	
+96	76	76	75	69	82	89	55	38	0	
+Start For Simulated Annealing=0
+Tour sequence For Simulated Annealing=1-->4-->7-->5-->10-->9-->8-->2-->6-->3-->1
+Minimum cost obtained For Simulated Annealing is=305
+End For Simulated Annealing=15
+Total time taken by CPU For Simulate Annealing: 0.01499999999999999900
