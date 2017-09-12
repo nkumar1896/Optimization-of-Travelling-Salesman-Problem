@@ -1,4 +1,4 @@
-# Optimization-TSP-
+# Optimization of Traveling Salesman Problem
 Solved TSP using SA(simulated annealing),GA(Genetic algorithm),DP(Dynamic Programming) and LP(Linear programming) and comparison between them as a function of time and distance and also made GUI of every problem.
 ![screenshot 159](https://user-images.githubusercontent.com/26718572/30307069-51a8652c-9799-11e7-8f27-d4712c6796ce.png)
 ![screenshot 144](https://user-images.githubusercontent.com/26718572/30307071-51a9b594-9799-11e7-9187-55ec46c09ab7.png)
