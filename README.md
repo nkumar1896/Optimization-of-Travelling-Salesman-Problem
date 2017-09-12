@@ -1,2 +1,16 @@
 # Optimization-TSP-
 Solved TSP using SA(simulated annealing),GA(Genetic algorithm),DP(Dynamic Programming) and LP(Linear programming) and comparison between them as a function of time and distance and also made GUI of every problem.
+![screenshot 159](https://user-images.githubusercontent.com/26718572/30307069-51a8652c-9799-11e7-8f27-d4712c6796ce.png)
+![screenshot 144](https://user-images.githubusercontent.com/26718572/30307071-51a9b594-9799-11e7-9187-55ec46c09ab7.png)
+![screenshot 147](https://user-images.githubusercontent.com/26718572/30307068-51a73e54-9799-11e7-97c4-c225ef9652f9.png)
+![screenshot 148](https://user-images.githubusercontent.com/26718572/30307067-51a6d39c-9799-11e7-8ed9-364a5ad50197.png)
+![screenshot 149](https://user-images.githubusercontent.com/26718572/30307070-51a9b1e8-9799-11e7-89d0-865f24fc28db.png)
+![screenshot 150](https://user-images.githubusercontent.com/26718572/30307072-51aa841a-9799-11e7-9c9b-c8f76ae8a446.png)
+![screenshot 151](https://user-images.githubusercontent.com/26718572/30307078-51f44668-9799-11e7-81e7-84974088fb3f.png)
+![screenshot 152](https://user-images.githubusercontent.com/26718572/30307073-51e2f91c-9799-11e7-87df-3e0e5c6d4b8d.png)
+![screenshot 153](https://user-images.githubusercontent.com/26718572/30307075-51e578ea-9799-11e7-9c21-0b934c6ea211.png)
+![screenshot 154](https://user-images.githubusercontent.com/26718572/30307076-51e701ce-9799-11e7-9ba6-eb5c49733399.png)
+![screenshot 155](https://user-images.githubusercontent.com/26718572/30307074-51e5050e-9799-11e7-951c-2e5d2ae4fd55.png)
+![screenshot 156](https://user-images.githubusercontent.com/26718572/30307077-51e9eea2-9799-11e7-9f05-ab3aa38ecef8.png)
+![screenshot 157](https://user-images.githubusercontent.com/26718572/30307080-5234a5f0-9799-11e7-862e-02e26fd8dba1.png)
+![screenshot 158](https://user-images.githubusercontent.com/26718572/30307079-5221636e-9799-11e7-97ba-3190dc7e6cec.png)
